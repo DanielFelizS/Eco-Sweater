@@ -1,0 +1,38 @@
+#about h2{
+    font-size: 40px;
+    text-align: center;
+}
+.section{
+    width: 100%;
+    padding: 78px 0px;
+    /* min-height: 100vh; */
+}
+.section img{
+    width: 500px;
+    height: auto;
+    margin: 5px;
+    object-fit: cover;
+    /* border-radius: 5%; */
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.section-description{
+    width: 550px;
+}
+.section-description > h2{
+    /* text-transform: capitalize; */
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.section-description > p{
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}

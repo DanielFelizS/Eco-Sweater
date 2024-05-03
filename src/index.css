@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: ; */
+}
+button{
+  background-color: #000000;
+  border-radius: 9999px;
+  border: 0px solid #e2e8f0;
+  text-align: center;
+  color: #fff;
+  height: 45px;
+  width: 120px;
+  padding: 15px;
+  margin: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #1f2937;
+  transition: .2s;
+}
