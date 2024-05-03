@@ -12,10 +12,8 @@ export default function Hero() {
         <div className="hero-content">
           <Heading>Eco Sweater</Heading>
           <Description>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non
-            suscipit eum ratione libero, facilis laudantium reprehenderit ea
-            asperiores, illum voluptatum optio. Repellat ducimus sint ipsam,
-            enim magnam tempore eum quisquam.
+            Un intercambio de prendas ya no utilizadas, y venta de prendas
+            amigables con el medio ambiente y de larga vida útil.
           </Description>
           <Button ButtonClick={() => alert("Hola soy un boton")}>
             Click Me

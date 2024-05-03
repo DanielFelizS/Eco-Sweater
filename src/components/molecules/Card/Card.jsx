@@ -6,7 +6,7 @@ export default function Card() {
   return (
     <div className='card'>
         <SubHeading>Únete a Eco Sweater hoy</SubHeading>
-        <Description>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</Description>
+        <Description>El camino ecológico al estilo.</Description>
         <Button>Get Started</Button>
     </div>
   )
